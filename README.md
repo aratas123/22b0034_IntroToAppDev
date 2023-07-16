@@ -1,8 +1,16 @@
+# iit
 
-https://github.com/aratas123/22b0034_IntroToAppDev/assets/139319722/bc3f5e46-ea99-43a1-b8d0-31373ae26658
-# 22b0034_IntroToAppDev
-Assignment-1 video:
+A new Flutter project.
 
+## Getting Started
 
-Uploading Assignment-1 video.mp4…
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
